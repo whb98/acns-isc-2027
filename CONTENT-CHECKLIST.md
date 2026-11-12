@@ -1,13 +1,13 @@
-# Publication checklist
-This website is an organizer review draft for ACNS-ISC 2027. The workshop proposal supplies the 2nd-edition title, CFP scope, LNCS 20-page limit excluding references, double-blind review, dates and proposed agenda.
+# ACNS-ISC 2027 — pre-publication checklist
 
-Before announcing the CFP publicly:
-- Confirm exact workshop day and timetable.
-- Confirm submission portal URL and contact email.
-- Confirm program committee memberships and invited keynote.
-- Verify and approve all submission and registration policies with ACNS 2027.
-- Replace monogram chair-photo placeholders with approved original portraits (the source DOCX includes chair portraits).
-- Check organizer approval and any required ACNS visual identity.
-- Turn on GitHub Pages under Settings > Pages > Source > GitHub Actions.
+Source: workshop proposal dated 21 September 2026.
 
-The date proposals are 19 February 2027 submission deadline, 21 March 2027 notification, and 14 June 2027 camera-ready, all AoE. Main ACNS 2027 dates: 28 June–1 July 2027.
+- [ ] Confirm exact workshop date during ACNS 2027 (28 June–1 July 2027).
+- [ ] Add official submission portal and contact email.
+- [ ] Confirm full program committee and invited keynote.
+- [ ] Verify final LNCS instructions, registration and proceedings policies with organizers.
+- [ ] Confirm permission to publish organizer portraits supplied in the proposal.
+- [ ] Replace the original template's placeholder logo with an approved official workshop logo if available.
+- [ ] Review proposal dates: 19 February 2027 submissions, 21 March notification, and 14 June camera-ready (AoE).
+
+The stylesheet, JavaScript and site layout are from the supplied original ACNS workshop template, rather than from a redesigned theme.
