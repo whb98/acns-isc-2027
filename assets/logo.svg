@@ -1,1 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="160" height="160" viewBox="0 0 160 160"><rect width="160" height="160" rx="32" fill="#0f4e57"/><path d="M32 118L80 31l48 87" fill="none" stroke="#e8fbf9" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/><path d="M51 95h58" stroke="#4fd0cc" stroke-width="11" stroke-linecap="round"/><circle cx="80" cy="31" r="7" fill="#4fd0cc"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128">
+  <title>Logo placeholder</title>
+  <rect x="14" y="24" width="100" height="80" rx="14" fill="#e6f0ef" stroke="#0c5c63" stroke-width="5" stroke-dasharray="12 8"/>
+  <circle cx="47" cy="51" r="9" fill="#0c5c63"/>
+  <path d="M28 89 L54 63 L69 78 L80 67 L100 89 Z" fill="#0c5c63"/>
+</svg>
