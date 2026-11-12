@@ -1,9 +1,20 @@
-# ACNS-ISC 2027
+# ACNS-ISC 2027 – Official-style Workshop Website Draft
 
-2nd ACNS Workshop on Intelligent and Secure Computing. A responsive static workshop website based on the workshop template and 2027 proposal.
+This site was adapted directly from the uploaded `workshop-website-template.zip`. The original layout, original `css/style.css`, original `js/main.js`, template SVG logo and favicon are retained. The original campus photograph was optimized for the hosted site. The local source ZIP contains the original full-resolution campus photograph. Organizer portraits were extracted from the 2027 workshop proposal.
+
+The text (Call for Papers, topics, dates, chairs, submission requirements) is adapted from the attached `ACNS-ISC 2027 Workshop Proposal-qian20260921.docx`.
 
 ## Editing
-Edit `index.html` for CFP, dates, committee, and program. Edit `css/style.css` for styling. The exact workshop date, submission URL, contact, and final committee are pending confirmation.
+- `index.html`: workshop title, call for papers, chairs, important dates.
+- `css/style.css`: original template styles (avoid editing to preserve appearance).
+- `js/main.js`: original responsive navigation and smooth scrolling.
+- `assets/founders_building.jpg`: original Royal Holloway template photo (optimized online).
+- `assets/people/chair-1.jpg`, `chair-2.jpg`: portraits from the workshop proposal.
 
 ## Deployment
-Push to `main`. Workflow `.github/workflows/pages.yml` publishes via GitHub Pages when Settings > Pages > Source is set to **GitHub Actions**. No build needed.
+Published automatically from the `main` branch with `.github/workflows/pages.yml` using GitHub Pages.
+
+Website: https://whb98.github.io/acns-isc-2027/
+
+## Organizer confirmation required
+Exact workshop date, submission URL, contact email and full PC membership remain to be confirmed. Do not treat these as announced information.
